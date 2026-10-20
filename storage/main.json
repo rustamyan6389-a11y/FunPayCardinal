@@ -1,3 +1,9 @@
 {
-    "golden_key": "Ousmvwn8wo9x05any0kgyqp5w2wsm11a"
+    "golden_key": "Ousmvwn8wo9x05any0kgyqp5w2wsm11a",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "auto_response": true,
+    "auto_delivery": true,
+    "auto_raise": true,
+    "auto_restore": true,
+    "watermark": "[Chappa Shop]"
 }
