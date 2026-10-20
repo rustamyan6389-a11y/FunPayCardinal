@@ -1,3 +1,0 @@
-{
-    "golden_key": "Ousmvwn8wo9x05any0kgyqp5w2wsm11a"
-}
