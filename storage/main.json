@@ -5,5 +5,10 @@
     "auto_delivery": true,
     "auto_raise": true,
     "auto_restore": true,
-    "watermark": "[Chappa Shop]"
+    "watermark": "[Chappa Shop]",
+    "telegram": {
+        "enabled": false,
+        "token": "",
+        "secretKey": ""
+    }
 }
